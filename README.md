@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="left">Cherley Joachim</h1>
 
-<!--
-**CJ-JC/CJ-JC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Je suis Cherley, un développeur passionné par la création de solutions innovantes et efficaces.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">💻 Compétences et expériences</h2>
+
+- 🌐 **Front-End** : HTML, CSS, JavaScript (ES6+), React.js  
+- 🛠️ **Back-End** : PHP, Symfony, NodeJs
+- 💾 **Base de données** : MySQL  
+- 🖥️ **Outils et technologies** : Git, CI/CD  
+- 🌟 **Expériences** :  
+  - Développement de sites web dynamiques et sécurisés avec Symfony et React.js.  
+  - Mise en place de workflows CI/CD pour une intégration et un déploiement optimisés.
+
+###
+
+
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CJ-JC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cherley-joachim/)  
+
+
+###
