@@ -8,7 +8,7 @@
 
 <h2 align="left">💻 Compétences et expériences</h2>
 
-- 🌐 **Front-End** : HTML, CSS, JavaScript (ES6+), React.js  
+- 🌐 **Front-End** : HTML, CSS, JavaScript, React.js  
 - 🛠️ **Back-End** : PHP, Symfony, NodeJs
 - 💾 **Base de données** : MySQL  
 - 🖥️ **Outils et technologies** : Git, CI/CD  
